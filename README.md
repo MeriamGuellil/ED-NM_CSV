@@ -1,3 +1,5 @@
+[![DOI](https://zenodo.org/badge/429068361.svg)](https://zenodo.org/badge/latestdoi/429068361)
+
 # **ED-NM_CSV**
 ### **Script to calculate and output edit distances for mapped reads**
 
@@ -33,11 +35,12 @@ For help use:
 
 # Cite:
 Please cite using the DOI:
+Meriam Guellil. (2021). MeriamGuellil/ED-NM_CSV. Zenodo. https://doi.org/10.5281/zenodo.5707905
 
 # References:
 Walt, Stéfan van der, S. Chris Colbert, and Gaël Varoquaux. 2011. “The NumPy Array: A Structure for Efficient Numerical Computation.” Computing in Science & Engineering 13 (2): 22–30. https://doi.org/10.1109/MCSE.2011.37.
 
 Pysam: Pysam Is a Python Module for Reading and Manipulating SAM/BAM/VCF/BCF Files. It’s a Lightweight Wrapper of the Htslib C-API, the Same One That Powers Samtools, Bcftools, and Tabix. n.d. Github. https://github.com/pysam-developers/pysam.
 
-Miles, Alistair. n.d. Pysamstats. Github. https://github.com/alimanfoo/pysamstats.
+Miles, Alistair. Pysamstats. Github. https://github.com/alimanfoo/pysamstats.
 
