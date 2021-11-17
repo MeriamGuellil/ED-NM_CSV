@@ -3,7 +3,7 @@ import numpy as np
 import pysam
 import pysamstats
 
-parser = argparse.ArgumentParser(description="""NM Edit Distance  -  Meriam Guellil  -  August 2019 v.2.0""",epilog="""Can be run multiple times and will append output to the same file if it was given as output. Does not overwrite.""")
+parser = argparse.ArgumentParser(description="""NM Edit Distance  -  Meriam Guellil  -  August 2021 v.2.0.0""",epilog="""Can be run multiple times and will append output to the same file if it was given as output. Does not overwrite.""")
 parser.add_argument('-b',metavar='in.bam', dest='bams', required=True, type=str, nargs='+', help='List of sorted BAM Files')
 parser.add_argument('-d',metavar='Max Range', dest='max', required=False, default=10, type=int, help='Maximum Calculated Edit Distance (default = 10).')
 parser.add_argument('-o',metavar='out.csv', dest='csv', required=False, help='csv output File.')
