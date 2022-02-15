@@ -30,7 +30,7 @@ Output all headers seperatly and only for reads MQ>30:
 
 For help use:
 ```
- python GC-GCSkew_Calculator.py -h
+ python ED-NM_CSV.py -h
  ```
 
 # Cite:
